@@ -4,5 +4,11 @@
         "description": "Web development platform add-in for Office 365",
         "image": "/assets/images/GitHub-Mark-120px-plus.png",
         "link": "/OfficeFrontDesk"
+    },
+    {
+        "title": "Pumpkin Squash",
+        "description": "Punch pumpkins to squash them!",
+        "image": "https://lh3.googleusercontent.com/AiBe7ej-mF5_-4uZJj6dFMDUwqT5doeOilY-6Y8hexdigkgPV4TtvSvtruRtwW8Aew=w300-rw",
+        "link": "https://play.google.com/store/apps/details?id=com.RSG.PumpkinSquash&hl=en"
     }
 ]
