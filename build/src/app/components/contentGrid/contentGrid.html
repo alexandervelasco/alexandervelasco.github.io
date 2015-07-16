@@ -1,0 +1,11 @@
+<div class="row">
+    <div ng-repeat="item in content" class="col-xs-12 col-sm-6 col-md-2">
+        <a ng-href="{{item.link}}" class="thumbnail">
+            <img class="thumbnail-image" ng-src="{{item.image}}" alt="{{item.title}}">
+            <div class="caption">
+                <h4>{{item.title}}</h4>
+                <p>{{item.description}}</p>
+            </div>
+        </a>
+    </div>
+</div>
